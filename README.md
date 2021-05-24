@@ -1,3 +1,5 @@
+[![Build Status](https://carloma.visualstudio.com/ADODemo/_apis/build/status/carlomams.python-sample-vscode-flask-tutorial?branchName=master)](https://carloma.visualstudio.com/ADODemo/_build/latest?definitionId=13&branchName=master)
+
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
