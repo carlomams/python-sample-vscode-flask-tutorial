@@ -32,6 +32,7 @@ steps:
   displayName: 'pytest'
 
 - task: PublishCodeCoverageResults@1
+  displayName: 'Code Coverage'
   inputs:
     codeCoverageTool: "JaCoCo"
     summaryFileLocation: "$(System.DefaultWorkingDirectory)/**/site/jacoco/jacoco.xml"
